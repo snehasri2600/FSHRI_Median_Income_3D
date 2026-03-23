@@ -1,4 +1,4 @@
-# NYC Flooding: Who Gets Hurt the Most?
+# What's Lost in the Waters? Measuring Flooding in NYC
 
 Welcome to the **FSHRI-Median Household Income** interactive dashboard! Its pupose is to show the median household income and the Flood Susceptibility to Harm and Recovery Index (FSHRI) in New York City. 
 
